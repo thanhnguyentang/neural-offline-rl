@@ -1,0 +1,2 @@
+lr | lambda | perturbed-variance | M | opt-rate | regret
+0.0001 | 0.01| 0.1 | 10 | 0.192 | 3.47205
